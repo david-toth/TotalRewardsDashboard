@@ -1,0 +1,6 @@
+employee_id,age,service,annual_base_pay,employee_status,business_unit,employee_group,retirement_plan_eligible,pension_plan_eligible,health_plan_election,coverage_tier,other_benefit_eligible
+E0001,34,6,68000,Active,Technology,Salaried,Yes,No,Medical,Employee Only,Yes
+E0002,47,15,92000,Active,Operations,Hourly,Yes,Yes,Medical,Family,Yes
+E0003,29,2,54000,Active,Sales,Salaried,Yes,No,Medical,Employee Plus Spouse,Yes
+E0004,58,22,126000,Active,Corporate,Management,Yes,Yes,Medical,Employee Only,Yes
+E0005,41,9,74000,Active,Customer Service,Hourly,Yes,No,Medical,Employee Plus Children,Yes
